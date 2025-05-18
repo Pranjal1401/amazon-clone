@@ -1,1 +1,7 @@
-*.jpg\n*.jpeg\n*.png\n*.gif\n*.svg\n/images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+/images/
+assets/images/
